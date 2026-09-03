@@ -1,0 +1,246 @@
+{
+  "config_id": "690e0a16-0cf4-4db4-af59-1ce5fb50bf8b",
+  "technology": "RPA",
+  "generated_at": "2026-09-03T09:14:51.399158",
+  "duration_seconds": 0.0052,
+  "levels": {
+    "market_research": {
+      "technology": "RPA",
+      "domain": "rpa",
+      "summary": "Robotic Process Automation is a mature but still-expanding market, shifting from standalone task automation toward broader hyperautomation and agentic platforms that combine RPA with AI.",
+      "trends": [
+        {
+          "title": "Convergence with AI/agentic systems",
+          "description": "RPA vendors are embedding LLM-based decisioning and document understanding directly into bots, blurring the line between RPA and AI orchestration.",
+          "momentum": "accelerating"
+        },
+        {
+          "title": "Shift to citizen development",
+          "description": "Low-code/no-code bot builders are lowering the barrier to entry, pushing automation ownership out of IT and into business units.",
+          "momentum": "steady"
+        },
+        {
+          "title": "Consolidation among vendors",
+          "description": "Market consolidation (acquisitions, platform bundling) is reducing the number of independent RPA-only vendors.",
+          "momentum": "steady"
+        },
+        {
+          "title": "Governance and center-of-excellence maturity",
+          "description": "Enterprises increasingly require centralized bot governance, security review, and ROI tracking before scaling automation.",
+          "momentum": "emerging"
+        }
+      ],
+      "vendors": [
+        {
+          "name": "UiPath",
+          "market_position": "leader",
+          "strengths": [
+            "Broad platform",
+            "Strong ecosystem",
+            "Enterprise adoption"
+          ]
+        },
+        {
+          "name": "Automation Anywhere",
+          "market_position": "leader",
+          "strengths": [
+            "Cloud-native architecture",
+            "AI integration"
+          ]
+        },
+        {
+          "name": "Microsoft Power Automate",
+          "market_position": "challenger",
+          "strengths": [
+            "Bundled with Microsoft 365",
+            "Low entry cost"
+          ]
+        },
+        {
+          "name": "Blue Prism (SS&C)",
+          "market_position": "niche",
+          "strengths": [
+            "Security-focused",
+            "Strong governance model"
+          ]
+        }
+      ],
+      "demand": {
+        "overall_demand": "high",
+        "growth_outlook": "Steady double-digit growth, increasingly framed as part of hyperautomation budgets rather than standalone RPA spend. (framed for a 1year horizon)",
+        "key_drivers": [
+          "Labor cost pressure",
+          "Back-office efficiency mandates",
+          "Compliance and audit trail needs"
+        ],
+        "audience_relevance": "For a 'manager' audience, focus on the demand drivers and growth outlook above rather than deep technical vendor detail."
+      },
+      "generated_at": "2026-09-03T09:14:51.397570"
+    },
+    "platform_analysis": {
+      "technology": "RPA",
+      "discovered_platforms": [
+        "UiPath",
+        "Power Platform"
+      ],
+      "profiles": [
+        {
+          "name": "UiPath",
+          "domain": "rpa",
+          "features": [
+            "Studio/StudioX low-code designer",
+            "Orchestrator for fleet management",
+            "Document Understanding AI",
+            "Marketplace of pre-built automations"
+          ],
+          "adoption_level": "widespread",
+          "competitive_advantages": [
+            "Largest RPA ecosystem and partner network",
+            "Strong enterprise governance tooling"
+          ],
+          "notes": ""
+        },
+        {
+          "name": "Power Platform",
+          "domain": "RPA",
+          "features": [
+            "Specific feature data not yet catalogued for this platform"
+          ],
+          "adoption_level": "unknown",
+          "competitive_advantages": [
+            "Requires further research to identify specific advantages"
+          ],
+          "notes": "'Power Platform' was auto-discovered from the search terms but is not yet present in the platform knowledge base. This is a generic placeholder profile; validate details with a live source before relying on it."
+        }
+      ],
+      "generated_at": "2026-09-03T09:14:51.398436"
+    },
+    "industry_analysis": {
+      "technology": "RPA",
+      "industries": [
+        {
+          "industry": "Healthcare",
+          "use_cases": [
+            "Patient intake and eligibility verification",
+            "Claims pre-processing",
+            "Appointment scheduling automation"
+          ],
+          "opportunities": [
+            {
+              "title": "Back-office cost reduction",
+              "description": "Automating high-volume administrative tasks frees clinical staff capacity.",
+              "impact": "high"
+            }
+          ],
+          "investment_trends": [
+            {
+              "trend": "Steady adoption growth",
+              "rationale": "Health systems are prioritizing administrative automation to offset staffing shortages."
+            }
+          ],
+          "regulatory_considerations": [
+            "HIPAA compliance for any bot handling PHI"
+          ]
+        },
+        {
+          "industry": "Finance",
+          "use_cases": [
+            "Reconciliation and reporting",
+            "KYC/AML document processing",
+            "Loan application processing"
+          ],
+          "opportunities": [
+            {
+              "title": "Compliance-driven automation",
+              "description": "Regulatory reporting volume makes automation a high-ROI target.",
+              "impact": "high"
+            }
+          ],
+          "investment_trends": [
+            {
+              "trend": "Mature, budget-line spend",
+              "rationale": "RPA is an established line item in most large financial institutions' automation budgets."
+            }
+          ],
+          "regulatory_considerations": [
+            "SOX and financial audit trail requirements"
+          ]
+        },
+        {
+          "industry": "Manufacturing",
+          "use_cases": [
+            "Supply chain order processing",
+            "Inventory reconciliation",
+            "Quality report generation"
+          ],
+          "opportunities": [
+            {
+              "title": "ERP-adjacent automation",
+              "description": "Bridging gaps between legacy ERP systems without custom integration work.",
+              "impact": "medium"
+            }
+          ],
+          "investment_trends": [
+            {
+              "trend": "Growing interest via hyperautomation",
+              "rationale": "Manufacturers are pairing RPA with IoT sensor data for broader automation."
+            }
+          ],
+          "regulatory_considerations": [
+            "Traceability requirements in regulated sub-sectors (e.g. aerospace, pharma)"
+          ]
+        },
+        {
+          "industry": "Insurance",
+          "use_cases": [
+            "Claims intake and triage",
+            "Policy issuance",
+            "Underwriting data collection"
+          ],
+          "opportunities": [
+            {
+              "title": "Claims cycle time reduction",
+              "description": "Automating first-notice-of-loss steps materially shortens claims cycles.",
+              "impact": "high"
+            }
+          ],
+          "investment_trends": [
+            {
+              "trend": "High and sustained investment",
+              "rationale": "Claims automation remains one of the highest-ROI RPA use cases in the industry."
+            }
+          ],
+          "regulatory_considerations": [
+            "State/national insurance regulatory reporting requirements"
+          ]
+        },
+        {
+          "industry": "Retail",
+          "use_cases": [
+            "Order processing and returns",
+            "Inventory synchronization across channels",
+            "Price/catalog updates"
+          ],
+          "opportunities": [
+            {
+              "title": "Omnichannel back-office consistency",
+              "description": "Automation keeps inventory and pricing consistent across online/in-store channels.",
+              "impact": "medium"
+            }
+          ],
+          "investment_trends": [
+            {
+              "trend": "Seasonal-spike driven investment",
+              "rationale": "Retailers invest ahead of peak seasons to absorb order-volume spikes without added headcount."
+            }
+          ],
+          "regulatory_considerations": [
+            "Consumer data handling regulations for order/returns automation"
+          ]
+        }
+      ],
+      "generated_at": "2026-09-03T09:14:51.398507"
+    }
+  },
+  "status": "completed"
+}
