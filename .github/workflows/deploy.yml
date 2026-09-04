@@ -38,6 +38,7 @@ jobs:
         working-directory: frontend
         run: npm run build
         env:
+          CI: false
           PUBLIC_URL: /Research-Agent
 
       - name: Setup Pages
