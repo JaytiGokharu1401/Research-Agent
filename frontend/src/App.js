@@ -8,7 +8,7 @@ import './App.css';
 
 function App() {
   return (
-    <Router>
+    <Router basename="/Research-Agent">
       <Routes>
         <Route path="/" element={<ConfigurationPage />} />
         <Route path="/research/:configId" element={<ResearchResults />} />
