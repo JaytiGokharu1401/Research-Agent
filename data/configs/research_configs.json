@@ -1,0 +1,32 @@
+[
+  {
+    "id": "c6660eae-d995-4653-ab84-3a45f9985ebf",
+    "technology": "RPA",
+    "search_strategy": "comprehensive",
+    "search_terms": "RPA Automation",
+    "target_audience": "manager",
+    "timeline_scope": "7days",
+    "detailed_prompt": "",
+    "enabled": true,
+    "created_at": "2026-09-16T23:42:39.962723",
+    "updated_at": "2026-09-16T23:42:39.962792",
+    "research_status": "completed",
+    "research_id": "c6660eae-d995-4653-ab84-3a45f9985ebf",
+    "research_file": "data\\results\\c6660eae-d995-4653-ab84-3a45f9985ebf_research.json"
+  },
+  {
+    "id": "e3a1deda-f986-4a66-8fc3-9478b77d19ec",
+    "technology": "RPA",
+    "search_strategy": "opportunity",
+    "search_terms": "RPA Automation",
+    "target_audience": "manager",
+    "timeline_scope": "1year",
+    "detailed_prompt": "",
+    "enabled": true,
+    "created_at": "2026-09-17T01:02:46.606792",
+    "updated_at": "2026-09-17T01:02:46.606837",
+    "research_status": "completed",
+    "research_id": "e3a1deda-f986-4a66-8fc3-9478b77d19ec",
+    "research_file": "data\\results\\e3a1deda-f986-4a66-8fc3-9478b77d19ec_research.json"
+  }
+]

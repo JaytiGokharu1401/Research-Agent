@@ -1,8 +1,8 @@
 {
-  "config_id": "e20981ba-14b4-42da-ae17-c5eefbb3aab9",
+  "config_id": "e3a1deda-f986-4a66-8fc3-9478b77d19ec",
   "technology": "RPA",
-  "generated_at": "2026-09-03T10:16:40.463252",
-  "duration_seconds": 0.006737,
+  "generated_at": "2026-09-17T01:02:46.612390",
+  "duration_seconds": 0.001978,
   "levels": {
     "market_research": {
       "technology": "RPA",
@@ -67,7 +67,7 @@
       ],
       "demand": {
         "overall_demand": "high",
-        "growth_outlook": "Steady double-digit growth, increasingly framed as part of hyperautomation budgets rather than standalone RPA spend. (framed for a 1year horizon) (framed for a 1year horizon) (framed for a 1year horizon) (framed for a 1year horizon)",
+        "growth_outlook": "Steady double-digit growth, increasingly framed as part of hyperautomation budgets rather than standalone RPA spend. (framed for a 1year horizon)",
         "key_drivers": [
           "Labor cost pressure",
           "Back-office efficiency mandates",
@@ -75,32 +75,28 @@
         ],
         "audience_relevance": "For a 'manager' audience, focus on the demand drivers and growth outlook above rather than deep technical vendor detail."
       },
-      "generated_at": "2026-09-03T10:16:40.457793"
+      "generated_at": "2026-09-17T01:02:46.611445"
     },
     "platform_analysis": {
       "technology": "RPA",
       "discovered_platforms": [
-        "UiPath"
+        "RPA Automation"
       ],
       "profiles": [
         {
-          "name": "UiPath",
-          "domain": "rpa",
+          "name": "RPA Automation",
+          "domain": "RPA",
           "features": [
-            "Studio/StudioX low-code designer",
-            "Orchestrator for fleet management",
-            "Document Understanding AI",
-            "Marketplace of pre-built automations"
+            "Specific feature data not yet catalogued for this platform"
           ],
-          "adoption_level": "widespread",
+          "adoption_level": "unknown",
           "competitive_advantages": [
-            "Largest RPA ecosystem and partner network",
-            "Strong enterprise governance tooling"
+            "Requires further research to identify specific advantages"
           ],
-          "notes": ""
+          "notes": "'RPA Automation' was auto-discovered from the search terms but is not yet present in the platform knowledge base. This is a generic placeholder profile; validate details with a live source before relying on it."
         }
       ],
-      "generated_at": "2026-09-03T10:16:40.462433"
+      "generated_at": "2026-09-17T01:02:46.611922"
     },
     "industry_analysis": {
       "technology": "RPA",
@@ -226,17 +222,17 @@
           ]
         }
       ],
-      "generated_at": "2026-09-03T10:16:40.462987"
+      "generated_at": "2026-09-17T01:02:46.612246"
     }
   },
   "status": "completed",
   "opportunities": {
-    "detected_at": "2026-09-03T10:16:40.464140",
+    "detected_at": "2026-09-17T01:02:46.613033",
     "technology": "RPA",
     "market_opportunities": [
       {
         "title": "High Market Demand for RPA",
-        "description": "Steady double-digit growth, increasingly framed as part of hyperautomation budgets rather than standalone RPA spend. (framed for a 1year horizon) (framed for a 1year horizon) (framed for a 1year horizon) (framed for a 1year horizon)",
+        "description": "Steady double-digit growth, increasingly framed as part of hyperautomation budgets rather than standalone RPA spend. (framed for a 1year horizon)",
         "potential": "high",
         "timeline": "immediate",
         "key_drivers": [
@@ -338,16 +334,14 @@
     ],
     "capability_opportunities": [
       {
-        "title": "Build UiPath Expertise & Certifications",
-        "description": "Develop deep expertise in UiPath platform and key features",
-        "platform": "UiPath",
+        "title": "Build RPA Automation Expertise & Certifications",
+        "description": "Develop deep expertise in RPA Automation platform and key features",
+        "platform": "RPA Automation",
         "key_features": [
-          "Studio/StudioX low-code designer",
-          "Orchestrator for fleet management",
-          "Document Understanding AI"
+          "Specific feature data not yet catalogued for this platform"
         ],
         "skill_gaps": [
-          "UiPath development skills",
+          "RPA Automation development skills",
           "Bot design & architecture",
           "Governance & best practices"
         ],
@@ -499,14 +493,14 @@
     "total_opportunities": 20
   },
   "report": {
-    "report_id": "e20981ba-14b4-42da-ae17-c5eefbb3aab9",
+    "report_id": "e3a1deda-f986-4a66-8fc3-9478b77d19ec",
     "technology": "RPA",
     "target_audience": "manager",
-    "generated_at": "2026-09-03T10:16:40.464946",
+    "generated_at": "2026-09-17T01:02:46.614220",
     "sections": {
       "1_executive_summary": {
         "title": "Executive Summary",
-        "content": "The RPA market is experiencing high demand with Steady double-digit growth, increasingly framed as part of hyperautomation budgets rather than standalone RPA spend. (framed for a 1year horizon) (framed for a 1year horizon) (framed for a 1year horizon) (framed for a 1year horizon).\n\nKey findings:\n- Market is consolidating around AI-augmented platforms\n- Convergence with AI/LLM capabilities is accelerating\n- Strong enterprise adoption with growing SMB interest\n- ROI expectations: 300-500% within 12-18 months\n\nStrategic recommendation: RPA represents a high-ROI opportunity for organizations looking to automate back-office processes and drive efficiency gains. Success requires proper governance, center-of-excellence setup, and ongoing capability development.\n\nTotal opportunities identified: 20"
+        "content": "The RPA market is experiencing high demand with Steady double-digit growth, increasingly framed as part of hyperautomation budgets rather than standalone RPA spend. (framed for a 1year horizon).\n\nKey findings:\n- Market is consolidating around AI-augmented platforms\n- Convergence with AI/LLM capabilities is accelerating\n- Strong enterprise adoption with growing SMB interest\n- ROI expectations: 300-500% within 12-18 months\n\nStrategic recommendation: RPA represents a high-ROI opportunity for organizations looking to automate back-office processes and drive efficiency gains. Success requires proper governance, center-of-excellence setup, and ongoing capability development.\n\nTotal opportunities identified: 20"
       },
       "2_current_market_trends": {
         "title": "Current Market Trends",
@@ -522,12 +516,11 @@
         "title": "Latest Developments",
         "platform_updates": [
           {
-            "platform": "UiPath",
+            "platform": "RPA Automation",
             "recent_features": [
-              "Studio/StudioX low-code designer",
-              "Orchestrator for fleet management"
+              "Specific feature data not yet catalogued for this platform"
             ],
-            "adoption": "widespread"
+            "adoption": "unknown"
           }
         ],
         "summary": "Major platforms are rapidly iterating with AI integration and improved governance."
@@ -662,7 +655,7 @@
       "9_market_demand": {
         "title": "Market Demand Signals",
         "overall_demand": "high",
-        "growth_outlook": "Steady double-digit growth, increasingly framed as part of hyperautomation budgets rather than standalone RPA spend. (framed for a 1year horizon) (framed for a 1year horizon) (framed for a 1year horizon) (framed for a 1year horizon)",
+        "growth_outlook": "Steady double-digit growth, increasingly framed as part of hyperautomation budgets rather than standalone RPA spend. (framed for a 1year horizon)",
         "key_drivers": [
           "Labor cost pressure",
           "Back-office efficiency mandates",
@@ -811,9 +804,9 @@
           "Industry publications and news"
         ],
         "report_metadata": {
-          "generated_at": "2026-09-03T10:16:40.463252",
+          "generated_at": "2026-09-17T01:02:46.612390",
           "technology": "RPA",
-          "research_config_id": "e20981ba-14b4-42da-ae17-c5eefbb3aab9",
+          "research_config_id": "e3a1deda-f986-4a66-8fc3-9478b77d19ec",
           "data_freshness": "Current as of report generation date"
         }
       }
